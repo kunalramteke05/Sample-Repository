@@ -1,3 +1,3 @@
 # Sample-Repository
 Practise
-SCM training
+SCM training 13-Feb-2019
